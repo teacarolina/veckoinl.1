@@ -1,0 +1,66 @@
+* {
+    font-family: 'Indie Flower', cursive;
+}
+
+nav {
+    height: 10px;
+    margin: 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2, h3 {
+    color: cornflowerblue;
+}
+
+/*#profil {
+    height: 230px;
+    width: 140px;
+    position: relative;
+    left: 170px;
+}*/
+
+#tea-bild4 {
+    height: 350px;
+    width: 250px;
+    position: relative;
+    left: 25px;
+}
+
+#tea-bild3 {
+    height: 350px;
+    width: 260px;
+    position: relative;
+    left: 185px;
+}
+
+#tea-bild2 {
+    height: 350px;
+    width: 300px;
+    position: relative;
+    left: 300px; 
+}
+
+.tea-lista {
+    display: inline;
+    margin-right: 170px;
+}
+
+#span1 {
+    padding-left: 21px;
+}
+
+#span2 {
+    padding-left: 369px;
+}
+
+#span3 {
+    padding-left: 317px;
+}
+
+a:hover {
+    color: cornflowerblue;
+}
+
